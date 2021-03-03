@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Ej04_06.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Ej04_06.dir/objects.a @CMakeFiles\Ej04_06.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Ej04_06.dir/objects.a -Wl,--no-whole-archive  -o Ej04_06.exe -Wl,--out-implib,libEj04_06.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Ej04_06.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Ej04_06.dir/main.c.o  -o Ej04_06 

@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/ikery/CLionProjects/DeustoProgIV/Ej04-06/main.c" "C:/Users/ikery/CLionProjects/DeustoProgIV/Ej04-06/cmake-build-debug/CMakeFiles/Ej04_06.dir/main.c.obj"
+  "/Users/ikeryanez/CLionProjects/DeustoProgIV/Ej04-06/main.c" "/Users/ikeryanez/CLionProjects/DeustoProgIV/Ej04-06/cmake-build-debug/CMakeFiles/Ej04_06.dir/main.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

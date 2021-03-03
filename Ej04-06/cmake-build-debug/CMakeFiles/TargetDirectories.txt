@@ -1,3 +1,3 @@
-C:/Users/ikery/CLionProjects/DeustoProgIV/Ej04-06/cmake-build-debug/CMakeFiles/Ej04_06.dir
-C:/Users/ikery/CLionProjects/DeustoProgIV/Ej04-06/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ikery/CLionProjects/DeustoProgIV/Ej04-06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ikeryanez/CLionProjects/DeustoProgIV/Ej04-06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ikeryanez/CLionProjects/DeustoProgIV/Ej04-06/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ikeryanez/CLionProjects/DeustoProgIV/Ej04-06/cmake-build-debug/CMakeFiles/Ej04_06.dir
